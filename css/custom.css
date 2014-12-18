@@ -1,0 +1,68 @@
+html, body {
+	background: #ffffff;
+	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+  	font-weight: 300;
+  	height: 100%;
+}
+
+.container{
+	width: 70%;
+	margin: 0 auto 0 auto;
+}
+
+.navigation{
+	padding: 10px;
+	font-size: 22px;
+	text-align: center;
+	color: black;
+	text-decoration: overline;
+	margin: auto 20 auto 20;
+
+}
+
+.header{
+	padding: 20px;
+	color: black;
+	font-size: 80px;
+	text-align: center;
+	font-style: bold;
+
+}
+
+.name{
+	font-size: 30px;
+	text-align: center;
+	font-style: bold;
+}
+
+.title{
+	font-size: 18px;
+	text-align: center;
+}
+
+.caption{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.picture{
+	text-align: center;
+}
+
+a:link{
+	color: black;
+	text-decoration: none;
+}
+
+a:visited{
+	color: black;
+}
+
+a:hover {
+	color: black;
+	font-weight: bold;
+}
+
